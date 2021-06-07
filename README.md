@@ -1,6 +1,10 @@
 # OAuzz
 The fuzzer for evaluating the security of OAuth based web services
 
+## Original Project URL
+
+https://code.google.com/archive/p/oauzz/
+
 ## Descripcion
 
 OAuzz is a fuzzer which allows to check the security of OAuth based web services.
